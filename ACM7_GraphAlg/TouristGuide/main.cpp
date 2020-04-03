@@ -98,7 +98,7 @@ int main() {
         auto minimum_number_of_trips = (uint64_t) ceil(amount_of_people / double(bottleneck));
 
         cout << "Scenario #" << scenario_counter << endl;
-        cout << "Minimum Number of Trips = " << minimum_number_of_trips << endl;
+        cout << "Minimum Number of Trips = " << minimum_number_of_trips << endl << endl;
 
     }
     return 0;
